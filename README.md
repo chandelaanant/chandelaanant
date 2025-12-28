@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey Everyone,I'm Anant:
 I’m currently learning JavaScript and modern web technologies, focusing on real-world applications. I’m looking to collaborate on development projects and seeking mentorship on industry practices. Ask me about web development basics and project building. Fun fact: breaking my own code is my favorite way to learn.
 
 
