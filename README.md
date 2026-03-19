@@ -1,5 +1,6 @@
 # 💫 Hey Everyone,I'm Anant:
 I'm a student passionate about technology, currently learning Web Development, Artificial Intelligence, and Data Structures & Algorithms. I enjoy understanding how systems work and applying that knowledge to build practical projects.Most of my time goes into improving my problem-solving skills through DSA, exploring new technologies, and building projects that strengthen my development skills.I'm also interested in the business side of technology and how digital products can create real-world impact. My goal is to keep learning, keep building, and gradually turn ideas into useful solutions.
+Let's build Something -> anantchandela@gmail.com
 
 
 ## 🌐 Socials:
